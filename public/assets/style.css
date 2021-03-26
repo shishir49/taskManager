@@ -1,0 +1,9 @@
+#sort_task .get_task_id.ui-state-highlight
+   {
+    padding:24px;
+    background-color:#ffffcc;
+    border:1px dotted #ccc;
+    cursor:move;
+    margin-top:12px;
+    width: 100px;
+   }

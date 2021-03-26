@@ -9,7 +9,7 @@
               Add New Project
             </button>
             <button type="button" class="btn btn-primary add">
-              Add New Task
+              Add A Task
             </button>
             
         </div>
